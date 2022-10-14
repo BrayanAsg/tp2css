@@ -1,0 +1,32 @@
+h1{
+   text-align: center;
+   color: red;
+}
+#h2{
+    text-align: left;
+    color: blue;
+    font-size: 15px;
+}
+#paragraphe1{
+    background-color: lightgray;
+}
+#titre{
+    text-align: right;
+    color: green;
+    text-decoration: underline;
+    font-size: 15px;
+    
+}
+#paragraphe2{
+    background-color:pink ;
+}
+strong{
+    color: yellowgreen;
+    font-style: impact;
+}
+em{
+    color: orange;
+    text-decoration: underline;
+    font-style: impact;
+    font-size: 10px;
+}
